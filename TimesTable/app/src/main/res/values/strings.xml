@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Times Table</string>
+    <string name="actual_value">Actual Value :</string>
+    <string name="_1">1</string>
+</resources>
